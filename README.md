@@ -6,10 +6,10 @@ Tenho 17 anos e sou estudante do Instituto Federal de Alagoas campus Viçosa, es
 ## ✨ GitHub stats 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alan-programmer007&show_icons=true&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Alan-programmer007&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alan-programmer007&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alan-programmer007&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
 </a>
 
 ## 🛠 Ferramentas e Tecnologias
