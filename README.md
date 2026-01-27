@@ -20,9 +20,7 @@ Busco constantemente evoluir tecnicamente e adquirir experiência profissional n
 - APIs REST  
 
 ### 🎨 Front-end
-- HTML  
-- CSS  
-- JavaScript  
+- HTML, CSS e JavaScript  
 - Bootstrap  
 - Figma  
 - Canva  
@@ -34,9 +32,8 @@ Busco constantemente evoluir tecnicamente e adquirir experiência profissional n
 - Git & GitHub  
 - Maven  
 - NPM  
-- Eclipse  
-- IntelliJ IDEA  
-- VS Code  
+- Eclipse, IntelliJ IDEA e VS Code
+- ChatGPT, GEMINI, Copilot e Lovabe
 
 ---
 
@@ -47,24 +44,6 @@ Busco constantemente evoluir tecnicamente e adquirir experiência profissional n
 
 - **Técnico em Informática para Internet** — *2022 – 2025*  
   Instituto Federal de Alagoas (IFAL)
-
-- **Curso Programador Web (200h)** — *2023*  
-  Instituto Federal do Rio Grande do Sul (IFSUL)
-
----
-
-## 💼 Experiência
-
-### 📌 Projeto “Desplugando” — IFAL Viçosa (2024)
-**Cargo:** Instrutor de Informática  
-Atuação no ensino de conceitos básicos de informática para crianças, com aulas práticas e uso de ferramentas educacionais interativas.
-
----
-
-### 📌 Projeto de Transição de Sistema — Cooperativa (11/2025)
-**Cargo:** Auxiliar de Suporte a Sistemas  
-Atuação no suporte aos usuários durante o processo de transição de um sistema antigo para um novo sistema corporativo.  
-Realizei atendimento, orientação sobre funcionalidades, auxílio na adaptação ao novo sistema e apoio à continuidade das atividades operacionais.
 
 ---
 
