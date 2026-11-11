@@ -37,6 +37,14 @@ Busco constantemente evoluir tecnicamente e adquirir experiência profissional n
 
 ---
 
+## 🏆 Certificações e Badges
+
+<a href="https://www.credly.com/badges/fa605ff4-9f89-4b25-8f15-8c80ac4fd527/public_url" target="_blank">
+  <img src="https://images.credly.com/images/7338421c-a197-40f4-8c8b-a47738f6d654/image.png" width="150" alt="AWS Academy Graduate - AWS Academy Cloud Foundations" />
+</a>
+
+---
+
 ## 📚 Formação Acadêmica
 
 - **Graduação em Sistemas para Internet** — *Cursando (2025)*  
